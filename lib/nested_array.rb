@@ -28,7 +28,7 @@ end
 
 def array_literal_matrix
 
-  array_literal_matrix [
+  array_literal_matrix = [
     ENNET_HOUSE.sort,
     ENFIELD_TENNIS_ACADEMY.sort
   ]
